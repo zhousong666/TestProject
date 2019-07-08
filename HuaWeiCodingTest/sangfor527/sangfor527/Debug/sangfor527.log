@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\project\huaweicodingtest\sangfor527\sangfor527\main.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+g:\project\huaweicodingtest\sangfor527\sangfor527\main.cpp(58): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+g:\project\huaweicodingtest\sangfor527\sangfor527\main.cpp(61): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  sangfor527.vcxproj -> G:\Project\HuaWeiCodingTest\sangfor527\Debug\sangfor527.exe
+  sangfor527.vcxproj -> G:\Project\HuaWeiCodingTest\sangfor527\Debug\sangfor527.pdb (Partial PDB)

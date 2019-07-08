@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\huaweicodingtest\10_character count\10_character count\main.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+  10_Character count.vcxproj -> G:\Project\HuaWeiCodingTest\10_Character count\Debug\10_Character count.exe
+  10_Character count.vcxproj -> G:\Project\HuaWeiCodingTest\10_Character count\Debug\10_Character count.pdb (Partial PDB)

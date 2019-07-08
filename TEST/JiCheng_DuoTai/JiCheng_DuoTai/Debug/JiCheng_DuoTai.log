@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\test\jicheng_duotai\jicheng_duotai\main.cpp(61): warning C4101: “xxx”: 未引用的局部变量
+main.obj : error LNK2001: 无法解析的外部符号 "public: static int X::ix" (?ix@X@@2HA)
+G:\Project\TEST\JiCheng_DuoTai\Debug\JiCheng_DuoTai.exe : fatal error LNK1120: 1 个无法解析的外部命令

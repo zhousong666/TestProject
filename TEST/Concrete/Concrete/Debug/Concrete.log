@@ -1,0 +1,7 @@
+﻿  main.cpp
+g:\project\test\concrete\concrete\main.cpp(33): warning C4305: “=”: 从“int”到“char”截断
+g:\project\test\concrete\concrete\main.cpp(33): warning C4309: “=”: 截断常量值
+g:\project\test\concrete\concrete\main.cpp(35): warning C4305: “=”: 从“int”到“char”截断
+g:\project\test\concrete\concrete\main.cpp(35): warning C4309: “=”: 截断常量值
+  Concrete.vcxproj -> G:\Project\TEST\Concrete\Debug\Concrete.exe
+  Concrete.vcxproj -> G:\Project\TEST\Concrete\Debug\Concrete.pdb (Partial PDB)

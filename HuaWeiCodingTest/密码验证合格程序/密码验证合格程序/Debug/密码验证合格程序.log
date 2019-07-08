@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\project\huaweicodingtest\密码验证合格程序\密码验证合格程序\main.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+g:\project\huaweicodingtest\密码验证合格程序\密码验证合格程序\main.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  密码验证合格程序.vcxproj -> G:\Project\HuaWeiCodingTest\密码验证合格程序\Debug\密码验证合格程序.exe
+  密码验证合格程序.vcxproj -> G:\Project\HuaWeiCodingTest\密码验证合格程序\Debug\密码验证合格程序.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\nowcoder\huawei0410-01\huawei0410-01\main.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  Huawei0410-01.vcxproj -> G:\Project\NowCoder\Huawei0410-01\Debug\Huawei0410-01.exe
+  Huawei0410-01.vcxproj -> G:\Project\NowCoder\Huawei0410-01\Debug\Huawei0410-01.pdb (Partial PDB)

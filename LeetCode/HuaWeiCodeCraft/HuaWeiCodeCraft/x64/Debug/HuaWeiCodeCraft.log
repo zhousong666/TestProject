@@ -1,0 +1,25 @@
+﻿  main.cpp
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(111): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(114): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(121): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(129): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(137): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(145): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(181): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(186): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(190): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(195): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(200): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(205): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(210): warning C4804: “+=”: 在操作中使用类型“bool”不安全
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(210): warning C4800: “double”: 将值强制为布尔值“true”或“false”(性能警告)
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(262): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(265): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(269): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(274): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(279): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(284): warning C4244: “+=”: 从“double”转换到“short”，可能丢失数据
+g:\project\leetcode\huaweicodecraft\huaweicodecraft\main.cpp(301): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  HuaWeiCodeCraft.vcxproj -> G:\Project\LeetCode\HuaWeiCodeCraft\x64\Debug\HuaWeiCodeCraft.exe
+  HuaWeiCodeCraft.vcxproj -> G:\Project\LeetCode\HuaWeiCodeCraft\x64\Debug\HuaWeiCodeCraft.pdb (Partial PDB)

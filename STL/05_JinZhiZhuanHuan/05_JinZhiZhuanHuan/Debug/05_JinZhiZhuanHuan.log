@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\project\stl\05_jinzhizhuanhuan\05_jinzhizhuanhuan\main.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+g:\project\stl\05_jinzhizhuanhuan\05_jinzhizhuanhuan\main.cpp(17): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  05_JinZhiZhuanHuan.vcxproj -> G:\Project\STL\05_JinZhiZhuanHuan\Debug\05_JinZhiZhuanHuan.exe
+  05_JinZhiZhuanHuan.vcxproj -> G:\Project\STL\05_JinZhiZhuanHuan\Debug\05_JinZhiZhuanHuan.pdb (Partial PDB)

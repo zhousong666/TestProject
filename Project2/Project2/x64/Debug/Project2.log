@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\project\project2\project2\main.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+g:\project\project2\project2\main.cpp(88): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\project2\project2\main.cpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> G:\Project\Project2\x64\Debug\Project2.exe
+  Project2.vcxproj -> G:\Project\Project2\x64\Debug\Project2.pdb (Partial PDB)

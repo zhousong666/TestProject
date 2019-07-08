@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\test\char_array\char_array\main.cpp(5): warning C4172: 返回局部变量或临时变量的地址: p
+  char_array.vcxproj -> G:\Project\TEST\char_array\Debug\char_array.exe
+  char_array.vcxproj -> G:\Project\TEST\char_array\Debug\char_array.pdb (Partial PDB)

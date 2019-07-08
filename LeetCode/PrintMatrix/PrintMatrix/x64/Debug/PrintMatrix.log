@@ -1,0 +1,6 @@
+﻿  PrintMatrix.cpp
+g:\project\leetcode\printmatrix\printmatrix\printmatrix.cpp(13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\leetcode\printmatrix\printmatrix\printmatrix.cpp(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\project\leetcode\printmatrix\printmatrix\printmatrix.cpp(17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PrintMatrix.vcxproj -> G:\Project\LeetCode\PrintMatrix\x64\Debug\PrintMatrix.exe
+  PrintMatrix.vcxproj -> G:\Project\LeetCode\PrintMatrix\x64\Debug\PrintMatrix.pdb (Full PDB)

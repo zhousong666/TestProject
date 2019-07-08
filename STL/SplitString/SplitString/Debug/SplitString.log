@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\project\stl\splitstring\splitstring\main.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\project\stl\splitstring\splitstring\main.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\project\stl\splitstring\splitstring\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  SplitString.vcxproj -> G:\Project\STL\SplitString\Debug\SplitString.exe
+  SplitString.vcxproj -> G:\Project\STL\SplitString\Debug\SplitString.pdb (Partial PDB)

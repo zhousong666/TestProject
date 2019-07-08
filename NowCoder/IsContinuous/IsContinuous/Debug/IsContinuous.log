@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\nowcoder\iscontinuous\iscontinuous\main.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  IsContinuous.vcxproj -> G:\Project\NowCoder\IsContinuous\Debug\IsContinuous.exe
+  IsContinuous.vcxproj -> G:\Project\NowCoder\IsContinuous\Debug\IsContinuous.pdb (Partial PDB)

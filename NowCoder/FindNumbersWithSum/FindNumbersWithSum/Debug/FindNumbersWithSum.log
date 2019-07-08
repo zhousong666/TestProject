@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\project\nowcoder\findnumberswithsum\findnumberswithsum\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+g:\project\nowcoder\findnumberswithsum\findnumberswithsum\main.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  FindNumbersWithSum.vcxproj -> G:\Project\NowCoder\FindNumbersWithSum\Debug\FindNumbersWithSum.exe
+  FindNumbersWithSum.vcxproj -> G:\Project\NowCoder\FindNumbersWithSum\Debug\FindNumbersWithSum.pdb (Partial PDB)

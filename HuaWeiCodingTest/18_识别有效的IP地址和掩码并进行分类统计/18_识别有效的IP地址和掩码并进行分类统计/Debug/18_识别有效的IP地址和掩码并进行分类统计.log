@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\huaweicodingtest\18_识别有效的ip地址和掩码并进行分类统计\18_识别有效的ip地址和掩码并进行分类统计\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  18_识别有效的IP地址和掩码并进行分类统计.vcxproj -> G:\Project\HuaWeiCodingTest\18_识别有效的IP地址和掩码并进行分类统计\Debug\18_识别有效的IP地址和掩码并进行分类统计.exe
+  18_识别有效的IP地址和掩码并进行分类统计.vcxproj -> G:\Project\HuaWeiCodingTest\18_识别有效的IP地址和掩码并进行分类统计\Debug\18_识别有效的IP地址和掩码并进行分类统计.pdb (Partial PDB)

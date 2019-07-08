@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\project\nowcoder\reversesentence\reversesentence\main.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  ReverseSentence.vcxproj -> G:\Project\NowCoder\ReverseSentence\Debug\ReverseSentence.exe
+  ReverseSentence.vcxproj -> G:\Project\NowCoder\ReverseSentence\Debug\ReverseSentence.pdb (Partial PDB)
